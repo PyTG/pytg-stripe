@@ -1,0 +1,4 @@
+public_key: PUBLISHABLE_KEY
+secret_key: SECRET_KEY
+
+payment_base_url: URL
